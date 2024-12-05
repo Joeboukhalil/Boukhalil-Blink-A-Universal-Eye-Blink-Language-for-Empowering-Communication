@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Boukhalil Blink is a simple, universal communication system for individuals with paralysis, empowering them to express themselves through eye movements.">
+    <meta name="keywords" content="Boukhalil Blink, communication for paralysis, eye language, accessibility, universal language, Morse code for communication">
+    <meta name="author" content="Joe Bou Khalil">
+    <title>Boukhalil Blink: A Universal Language of Hope</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 20px 10%;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px 10%;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+        }
+        .example {
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            text-align: left;
+            padding: 10px;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        footer {
+            background: #222;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        footer a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Boukhalil Blink: A Universal Language of Hope</h1>
+        <p>Empowering communication through simple eye movements</p>
+    </header>
+
+    <section>
+        <div class="container">
+            <h2>The Vision Behind Boukhalil Blink</h2>
+            <p>
+                Imagine being unable to speak or move, yet desperately needing to communicate with the world. For many, this is reality. Boukhalil Blink was born from the idea of helping those who cannot afford advanced technologies like Neuralink or who wish to communicate without relying on external devices. This simple yet powerful language uses blinks and eye movements, offering freedom and self-expression to everyone.
+            </p>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h2>How Boukhalil Blink Works</h2>
+            <p>
+                Boukhalil Blink uses eye blinks and closures to form patterns based on Morse code. Each pattern represents a specific word or phrase, enabling meaningful communication without speech or movement. Here is the complete guide to the language:
+            </p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Sign</th>
+                        <th>Meaning</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>. _</td><td>Yes</td></tr>
+                    <tr><td>_ . . .</td><td>No</td></tr>
+                    <tr><td>_ . _ .</td><td>Help</td></tr>
+                    <tr><td>_ . .</td><td>Hungry</td></tr>
+                    <tr><td>.</td><td>Thirsty</td></tr>
+                    <tr><td>. . _ .</td><td>Discomfort</td></tr>
+                    <tr><td>_ _ .</td><td>Need medical attention</td></tr>
+                    <tr><td>. . . .</td><td>Need to talk to someone</td></tr>
+                    <tr><td>. .</td><td>Referring to family member or friend</td></tr>
+                    <tr><td>. _ _ _</td><td>Bathroom</td></tr>
+                    <tr><td>_ . _</td><td>Sleep</td></tr>
+                    <tr><td>. _ . .</td><td>Cold</td></tr>
+                    <tr><td>_ _</td><td>Hot</td></tr>
+                    <tr><td>_ .</td><td>Happy</td></tr>
+                    <tr><td>_ _ _</td><td>Sad</td></tr>
+                    <tr><td>. _ _ .</td><td>Frustration</td></tr>
+                    <tr><td>_ _ . _</td><td>Thanks</td></tr>
+                    <tr><td>. _ .</td><td>Now</td></tr>
+                    <tr><td>. . .</td><td>Later</td></tr>
+                    <tr><td>_</td><td>Here</td></tr>
+                    <tr><td>. . _</td><td>There</td></tr>
+                    <tr><td>. . . _</td><td>Home</td></tr>
+                </tbody>
+            </table>
+            <p>
+                By mastering these simple patterns, individuals can express their needs, emotions, and thoughts with clarity and ease.
+            </p>
+        </div>
+    </section>
+
+    <footer>
+        <p>
+            Created by Joe Bou Khalil. Learn more about Boukhalil Blink and other innovations by visiting <a href="https://joeboukhalil.github.io/Joe-Bou-Khalil-Innovations/" target="_blank">Joe Bou Khalil Innovations</a>. Together, we can bring hope and communication to those who need it most.
+        </p>
+    </footer>
+</body>
+</html>
