@@ -1,0 +1,2 @@
+# Boukhalil-Blink-A-Universal-Eye-Blink-Language-for-Empowering-Communication
+Boukhalil Blink is a simple and accessible communication system designed for individuals with paralysis or speech disabilities. Using eye blinks and closures inspired by Morse code, this universal language enables self-expression without the need for advanced technology. Discover how Boukhalil Blink is transforming lives. 
